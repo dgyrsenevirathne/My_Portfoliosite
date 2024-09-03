@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\portfoliowebsite\\portfoliowebsite.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|solutionrelative:portfoliowebsite.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\portfoliowebsite\\portfoliowebsite.web\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|solutionrelative:portfoliowebsite.web\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\portfoliowebsite\\portfoliowebsite.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|solutionrelative:portfoliowebsite.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\portfoliowebsite\\portfoliowebsite.web\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|solutionrelative:portfoliowebsite.web\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\portfoliowebsite\\portfoliowebsite.web\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|solutionrelative:portfoliowebsite.web\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\portfoliowebsite\\portfoliowebsite.web\\portfoliowebsite.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|solutionrelative:portfoliowebsite.web\\portfoliowebsite.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\portfoliowebsite\\portfoliowebsite.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|solutionrelative:portfoliowebsite.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\portfoliowebsite\\portfoliowebsite.web\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD71430-5E36-48B0-8144-3B0D28F1CF70}|PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj|solutionrelative:portfoliowebsite.web\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioWebsite.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PortfolioWebsite.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T06:36:15.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "PortfolioWebsite.Web\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "PortfolioWebsite.Web\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:11:46.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PortfolioWebsite.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj",
+              "RelativeDocumentMoniker": "PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj",
+              "RelativeToolTip": "PortfolioWebsite.Web\\PortfolioWebsite.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T09:43:56.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\Repository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "PortfolioWebsite.Web\\Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\Repository\\ContactRepository.cs",
+              "RelativeToolTip": "PortfolioWebsite.Web\\Repository\\ContactRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:38:35.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\Program.cs",
+              "RelativeDocumentMoniker": "PortfolioWebsite.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\Program.cs",
+              "RelativeToolTip": "PortfolioWebsite.Web\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:50:46.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "PortfolioWebsite.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\appsettings.json",
+              "RelativeToolTip": "PortfolioWebsite.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T07:13:35.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\Models\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "PortfolioWebsite.Web\\Models\\ContactMessage.cs",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\Models\\ContactMessage.cs",
+              "RelativeToolTip": "PortfolioWebsite.Web\\Models\\ContactMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:09:12.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioWebsite.Web\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PortfolioWebsite\\PortfolioWebsite.Web\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "PortfolioWebsite.Web\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T07:04:51.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

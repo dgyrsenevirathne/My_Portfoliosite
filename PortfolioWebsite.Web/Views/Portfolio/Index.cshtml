@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .portfolio {
+            padding: 60px 20px;
+        }
+
+            .portfolio h2 {
+                font-size: 2.5rem;
+                margin-bottom: 40px;
+            }
+
+        .portfolio-item {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+            transition: transform 0.2s ease-in-out;
+        }
+
+            .portfolio-item img {
+                width: 100%;
+                height: auto;
+            }
+
+            .portfolio-item h3 {
+                font-size: 1.5rem;
+                margin: 15px;
+            }
+
+            .portfolio-item p {
+                font-size: 1rem;
+                margin: 0 15px 15px;
+            }
+
+            .portfolio-item a {
+                display: block;
+                margin: 0 15px 15px;
+            }
+
+            .portfolio-item:hover {
+                transform: scale(1.05);
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="my-4">@ViewData["Title"]</h1>
+
+        <div class="portfolio">
+            <h2>My Work</h2>
+            <div class="row">
+                <!-- Repeat this block for each project -->
+                <div class="col-md-4">
+                    <div class="portfolio-item">
+                        <img src="/Images/Work_1.jpeg" alt="Project Image">
+                        <h3>ElectricEye</h3>
+                        <p>ElectricEye: A web app for tracking energy use with real-time updates and visual data. Built with .NET and Bootstrap for easy management.</p>
+                        <a href="https://github.com/dgyrsenevirathne/ElectricEye.git" class="btn btn-secondary">View Project</a>
+                    </div>
+                </div>
+                <!-- End of project block -->
+
+                <!-- Repeat this block for each project -->
+                <div class="col-md-4">
+                    <div class="portfolio-item">
+                        <img src="/Images/Work_2.png" alt="Project Image">
+                        <h3>FoodApp</h3>
+                        <p>FoodApp is a mobile app for receiving food orders. It uses Flutter for a smooth experience and Firebase for backend support. </p>
+                        <a href="https://github.com/dgyrsenevirathne/FoodApp.git" class="btn btn-secondary">View Project</a>
+                    </div>
+                </div>
+                <!-- End of project block -->
+
+                <!-- Repeat this block for each project -->
+                <div class="col-md-4">
+                    <div class="portfolio-item">
+                        <img src="/Images/Work_3.png" alt="Project Image">
+                        <h3>Hospitam Management System</h3>
+                        <p>This system, built with .NET and C#, helps hospitals manage daily tasks like patient records, appointments, staff, and inventory.</p>
+                        <a href="https://github.com/dgyrsenevirathne/Medical-center.git" class="btn btn-secondary">View Project</a>
+                    </div>
+                </div>
+                <!-- End of project block -->
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

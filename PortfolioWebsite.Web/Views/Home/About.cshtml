@@ -1,0 +1,101 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet"> <!-- Custom Font -->
+    <link rel="stylesheet" href="~/css/styles.css"> <!-- Link to the external CSS file -->
+</head>
+<body>
+    <div class="container">
+        <h1 class="my-4">@ViewData["Title"]</h1>
+
+        <div class="about-me">
+            <h2 class="text-primary">About Me</h2>
+            <p>Hello! I'm Yasith Reshan, a passionate developer with a keen interest in creating dynamic and innovative web applications. I have experience working with various technologies and frameworks, and I'm always eager to learn and explore new tools and techniques.</p>
+            <p class="text-primary">My skills include:</p>
+            <ul>
+                <li>Web Development with .NET, C#, and JavaScript</li>
+                <li>Responsive Design using Bootstrap</li>
+                <li>Database Management with SQL Server and Dapper</li>
+                <li>Problem Solving and Project Management</li>
+            </ul>
+            <p>Feel free to explore my portfolio and reach out if you have any questions or collaboration opportunities!</p>
+            <a href="/Portfolio" class="btn" style="
+    background-color: #1a73e8; /* Custom button color */
+    border: 1px solid #1a73e8; /* Border color matching the button */
+    color: white; /* Text color */
+    padding: 10px 20px; /* Padding around the text */
+    border-radius: 4px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    font-size: 1.25rem; /* Font size */
+    font-weight: bold; /* Bold text */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition on hover */
+    display: inline-block; /* Ensure it's an inline block element */
+    text-align: center; /* Center align text */
+    margin-top: 1rem; /* Space above the button */
+" onmouseover="this.style.backgroundColor='#0056b3'; this.style.transform='translateY(-2px)';" onmouseout="this.style.backgroundColor='#1a73e8'; this.style.transform='translateY(0)';">
+                View My Work
+            </a>
+           
+            <h2 class="mb-3" style="
+    font-size: 2rem; /* Font size for the heading */
+    color: #333; /* Dark color for better readability */
+    margin-bottom: 1rem; /* Space below the heading */
+    text-align: center; /* Center-align the heading */
+">
+                Contact Information
+            </h2>
+
+            <p style="
+    font-size: 1.2rem; /* Font size for better readability */
+    color: #555; /* Medium gray color for the text */
+    line-height: 1.5; /* Increase line height for better readability */
+    margin-bottom: 0.5rem; /* Space below each paragraph */
+">
+                <strong style="
+    color: #1a73e8; /* Custom color for labels */
+">Mobile:</strong> 076-999 2883
+            </p>
+
+            <p style="
+    font-size: 1.2rem; /* Font size for better readability */
+    color: #555; /* Medium gray color for the text */
+    line-height: 1.5; /* Increase line height for better readability */
+    margin-bottom: 0.5rem; /* Space below each paragraph */
+">
+                <strong style="
+    color: #1a73e8; /* Custom color for labels */
+">Email:</strong> <a href="mailto:yasithsenevirathna01@gmail.com" style="
+    color: #1a73e8; /* Color for email link */
+    text-decoration: none; /* Remove underline from the link */
+    font-weight: bold; /* Make email link text bold */
+    transition: color 0.3s ease; /* Smooth color transition */
+">yasithsenevirathna01@gmail.com</a>
+            </p>
+
+            <p style="
+    font-size: 1.2rem; /* Font size for better readability */
+    color: #555; /* Medium gray color for the text */
+    line-height: 1.5; /* Increase line height for better readability */
+    margin-bottom: 0.5rem; /* Space below each paragraph */
+">
+                <strong style="
+    color: #1a73e8; /* Custom color for labels */
+">Address:</strong> No.143/236, Sooriyathanna, Udupila, Delgoda
+            </p>
+
+
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
